@@ -1,0 +1,53 @@
+[33mcommit f1feb11d3cfa5346678967bb163c9be78e98c575[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Thu Aug 18 03:40:41 2022 +0000
+
+    deployment4
+
+[33mcommit 34c8929ecde48ff6a2950b2764df330c337d5019[m[33m ([m[1;32mmaster[m[33m)[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Thu Aug 18 03:26:54 2022 +0000
+
+    dev env deployment
+
+[33mcommit b7bd7b7d1a9ae9aa91fd61629010565d86d1d343[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Wed Aug 17 22:36:12 2022 +0000
+
+    gitignore files created
+
+[33mcommit fb07bd3bc8774dbf41cf6bf98d1b22f597e1472d[m[33m ([m[1;31mta/master[m[33m)[m
+Author: SHARON N. A <106775710+sharonnda@users.noreply.github.com>
+Date:   Wed Aug 17 15:06:17 2022 -0700
+
+    Create monitoring.app
+
+[33mcommit 696e64503bd41d0c95a61e5d092c45ba25de8a4b[m
+Author: SHARON N. A <106775710+sharonnda@users.noreply.github.com>
+Date:   Wed Aug 17 14:01:21 2022 -0700
+
+    Create monitor.app
+
+[33mcommit 998bf2e71feb90c6e58ea02440d65050b77cf91b[m
+Author: SHARON N. A <106775710+sharonnda@users.noreply.github.com>
+Date:   Wed Aug 17 13:23:12 2022 -0700
+
+    List.java updated with chi
+
+[33mcommit b17bf3798ebcb892c7884a7dff7b5faadb58ca72[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Wed Aug 17 19:16:35 2022 +0000
+
+    users list created
+
+[33mcommit 2e0c69132a94e3fb9a30203f20ec26c9eb16619b[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Fri Aug 12 02:51:21 2022 +0000
+
+    deployment ready
+
+[33mcommit fcfe8989a413054d74ddf24d324c5770804552e7[m
+Author: simon <acha_grace@yahoo.com>
+Date:   Fri Aug 12 02:31:47 2022 +0000
+
+    first application version

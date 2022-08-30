@@ -4,3 +4,6 @@ Peter
 Paul
 Chi 
 Ope
+Ken
+Sharon
+Franklin
